@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//AmitGhosh123.github.io/weatherApp-react/static/css/main.c1822769.css",
-    "main.js": "/https//AmitGhosh123.github.io/weatherApp-react/static/js/main.1a010cad.js",
-    "static/media/cold.jpg": "/https//AmitGhosh123.github.io/weatherApp-react/static/media/cold.6b4380436bbc1b7ba596.jpg",
-    "static/media/hot.jpg": "/https//AmitGhosh123.github.io/weatherApp-react/static/media/hot.29a4022c8e03910fd571.jpg",
-    "index.html": "/https//AmitGhosh123.github.io/weatherApp-react/index.html",
-    "main.c1822769.css.map": "/https//AmitGhosh123.github.io/weatherApp-react/static/css/main.c1822769.css.map",
-    "main.1a010cad.js.map": "/https//AmitGhosh123.github.io/weatherApp-react/static/js/main.1a010cad.js.map"
+    "main.css": "/weatherApp-react/static/css/main.c1822769.css",
+    "main.js": "/weatherApp-react/static/js/main.45ec7fc1.js",
+    "static/media/cold.jpg": "/weatherApp-react/static/media/cold.6b4380436bbc1b7ba596.jpg",
+    "static/media/hot.jpg": "/weatherApp-react/static/media/hot.29a4022c8e03910fd571.jpg",
+    "index.html": "/weatherApp-react/index.html",
+    "main.c1822769.css.map": "/weatherApp-react/static/css/main.c1822769.css.map",
+    "main.45ec7fc1.js.map": "/weatherApp-react/static/js/main.45ec7fc1.js.map"
   },
   "entrypoints": [
     "static/css/main.c1822769.css",
-    "static/js/main.1a010cad.js"
+    "static/js/main.45ec7fc1.js"
   ]
 }
